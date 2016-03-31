@@ -1,0 +1,87 @@
+head {
+
+}
+
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+p.trigger{
+    margin-bottom:7px;
+    margin-top:-5px;
+}
+
+.toggle_container{
+    margin-bottom:10px;
+}
+
+
+body {
+	font-size: 50px;
+	background-image: url("http://gdj.gdj.netdna-cdn.com/wp-content/uploads/2013/03/wood+pattern+texture+33.jpg");
+	/* background-image: url("http://www.flashuser.net/wp-content/uploads/2012/06/wood-texture-21.jpg"); */
+}
+
+
+
+h1 {
+
+
+}
+h2 {}
+h3 {}
+
+p {
+	font-size: .5em;
+
+}
+
+video {
+  background-color: #000000;
+  border: 2px solid black;
+  margin-left: 100px;
+}
+
+
+.container {
+  display: flex;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 100;
+}
+.maintext {
+	min-width: 50%;
+	max-width: 75%;
+	padding-left: 0;
+}
+
+.sidebar {
+  max-width: 25%;
+  min-width: 140px;
+  position: fixed;
+  right: -50px;
+  top: -65px;
+  margin-right: 0px;
+  padding-top: 80px;
+  padding-bottom: 200px;
+  padding-left: 15px;
+  font-size: 45px;
+  color: black;
+  background-image: url("http://www.mirror80.com/wp-content/uploads/2013/03/Marble-tile.jpg");
+  background-size: cover;
+}
+
+#header {
+	font-size: 50px;
+
+}
+
+#sam {
+	position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
